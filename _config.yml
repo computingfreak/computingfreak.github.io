@@ -22,9 +22,9 @@ title: Milind Shah
 email: computingfreak@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
  This blog is a way for me to learn Markdown and share my thoughts,
- opinions, ideas, online tools, books, movies, museums.
- Occasionally, I might add media - photos and hyperlapses
- when I experiment with the camera.
+ opinions, ideas, online tools, books, movies, parks & museums.
+ Occasionally, I might post photos from my travel experiences possibly with trip itineraries
+ and hyperlapses when I experiment with the camera.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username:  computingfreak
