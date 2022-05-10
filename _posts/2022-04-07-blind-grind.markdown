@@ -5,10 +5,9 @@ date:   2022-04-07 02:36:06 +0530
 categories: jekyll update
 ---
 
-I use [Stackedit](https://stackedit.io/app#) as my Markdown Editor
+I use [Stackedit](https://stackedit.io/app#) or [Dillinger](https://dillinger.io) as my Markdown Editor
 
 Here are the coding problems one must attempt before interviewing season.
-For more or less, use the sidebars to control duration & hours available per week and filters for difficulty levels : 
 
 [Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
 alt ref : [Alternate Reference to Best Practice Questions](https://www.techinterviewhandbook.org/best-practice-questions/)
